@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+fix yolo classify model loading error (#9196)
