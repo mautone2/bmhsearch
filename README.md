@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
