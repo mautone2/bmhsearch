@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
