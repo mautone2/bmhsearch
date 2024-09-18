@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
